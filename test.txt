@@ -1,2 +1,2 @@
- This is my first text application
+ This is my first text application and my first edit.
 /bin/bash: wq: command not found
